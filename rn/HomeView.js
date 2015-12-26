@@ -22,23 +22,24 @@ var ListItem = require('./ListItem');
 var DRAWER_WIDTH_LEFT = 56;
 var i = 0;
 var LISTVIEW_DATA ={"datas": [
-  {"id": i++, "content": 'Text Demo'},
-  {"id": i++, "content": 'Image Demo'},
-  {"id": i++, "content": 'TextInput Demo'},
-  {"id": i++, "content": 'ProgressBarAndroid Demo'},
-  {"id": i++, "content": 'SwitchAndroid Demo'},
-  {"id": i++, "content": 'ScrollView Demo'},
-  {"id": i++, "content": 'WebView Demo'},
-  {"id": i++, "content": 'ViewPagerAndroid Demo'},
-  {"id": i++, "content": 'ToolbarAndroid Demo'},
-  {"id": i++, "content": 'PullToRefreshViewAndroid Demo'},
-  {"id": i++, "content": 'Toast Demo'},
-  {"id": i++, "content": 'IntentAndroid Demo'},
-  {"id": i++, "content": 'Native Module Demo -- MyToast'},
-  {"id": i++, "content": 'Native UI Component Demo -- MyTextView'},
-  {"id": i++, "content": 'Component Lifecycle Demo'},
+  {"id": i++, "content": 'Native Module -- MyToast Demo'},
+  {"id": i++, "content": 'Native UI Component -- MyTextView Demo'},
+  {"id": i++, "content": 'APIS -- Component Lifecycle Demo'},
   {"id": i++, "content": 'Internet -- Fetch Demo'},
   {"id": i++, "content": 'Internet -- XmlHttpRequest Demo'},
+  {"id": i++, "content": 'UI -- Text Demo'},
+  {"id": i++, "content": 'UI -- Image Demo'},
+  {"id": i++, "content": 'UI -- TextInput Demo'},
+  {"id": i++, "content": 'UI -- ProgressBarAndroid Demo'},
+  {"id": i++, "content": 'UI -- SwitchAndroid Demo'},
+  {"id": i++, "content": 'UI -- ScrollView Demo'},
+  {"id": i++, "content": 'UI -- WebView Demo'},
+  {"id": i++, "content": 'UI -- ViewPagerAndroid Demo'},
+  {"id": i++, "content": 'UI -- ToolbarAndroid Demo'},
+  {"id": i++, "content": 'UI -- PullToRefreshViewAndroid Demo'},
+  {"id": i++, "content": 'UI -- Toast Demo'},
+  {"id": i++, "content": 'UI -- IntentAndroid Demo'},
+  
 ]};
 
 
