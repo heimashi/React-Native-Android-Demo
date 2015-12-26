@@ -1,0 +1,18 @@
+{
+  "name": "reactnativeandroiddemo",
+  "version": "1.0.0",
+  "description": "android_demo",
+  "main": "index.android.js",
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "sw",
+  "license": "ISC",
+  "dependencies": {
+    "react-native": "^0.17.0",
+    "react-timer-mixin": "^0.13.3"
+  }
+}

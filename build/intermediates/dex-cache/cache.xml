@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sunshi/android-sdks/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_15baa40b47886496d5424d9e255c181acf15ce49.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.17.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2aae9fb6f95dc57056f9909a03c51e64560e6abb">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.17.0_b410102f7168a83b0be42487ed7b5a6f87ccfc5c.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.8.1_b2928c4ee9fa57d2d6e5575892229358b12b8f4d.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.8.1_c7f9f53930310f921ce182dcf6137773c3069771.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp-0.8.1_0f1acfa4dbc947aff8abea696093fd64e579f424.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.8.1_14208c27ab269b63a359b3e688c661f98b980edb.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_cf2e778990861707e837834d5c515e0e31aa7b58.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.8.1_83c3ced72a60cac8270d6a1f3a8d6f2a8ea199c8.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_74e7934609d46b605503304cfaa7ec4a6f195f46.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/okio-1.6.0_eae43ae135ec1bcb7b57d28100298cb860002af2.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/library-2.4.0_fa9083549dae1ddfaa4f04696bb0f3da628cf0cb.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_3ff6adf15c23ee09a81977c2f0c09726efee7dda.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/commons-cli-1.2_eddc603ab2a0401ed3f578c9258d8b99c408d706.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3_28b8d9afc7fb868cfaddbe2ce7a541150e62e4a1.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_f41c95b60a91de10cc64f09dd50d9946c325acb6.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0_bdf2c5936d5aa69c17dc720b24190297c9d2e258.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/stetho-1.2.0_f72869145704f08bf08f4c2f5c8fbacf8f30c0bd.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0_8f08f19fe76c54e571327eaa38f3ce2c0623b1a0.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.17.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0b5e946b76cdb1f00b18f2981e7d997141a66c9f">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_897732ffd4cdf77d1827f495e96064ced769541b.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_1bee278d5d0197de58b5bb361a6ad2ee4071d94c.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0_6eb3016efdb4a09654f878e4b0ce8454adf6b427.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_6d48e5f840494ad3e7d490f1c81e5f7490a00c46.jar" />
+    </item>
+    <item
+        jar="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/sunshi/Documents/react/ReactNativeAndroidDemo/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_442965219031f8828457a854707fe16161673eb5.jar" />
+    </item>
+
+</items>
