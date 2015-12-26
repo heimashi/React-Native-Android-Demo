@@ -1,5 +1,5 @@
 # React-Native-Android-Demo
-*React Native Android Demo. UI Component.
+* React Native Android Demo. UI Component.
 
 # Content
 * Native Module -- MyToast Demo
@@ -36,4 +36,4 @@
 [React Native for Android ](http://www.race604.com/react-native-android-practice/) 
 
 
-# if you like it, welcome star & pull request
+# If you like it, welcome star & pull request
