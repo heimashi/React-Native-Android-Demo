@@ -2,6 +2,7 @@
 React Native Android Demo. UI Component.
 
 Content
+
 Native Module -- MyToast Demo
 Native UI Component -- MyTextView Demo
 APIS -- Component Lifecycle Demo
@@ -23,6 +24,7 @@ UI -- IntentAndroid Demo
 
 
 How to run
+
 1.clone this repository
 2.npm install
 3.npm start
@@ -31,6 +33,7 @@ enjoy it!
 
 
 Thanks to
+
 React Native
 
 
