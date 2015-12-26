@@ -36,6 +36,9 @@ var LISTVIEW_DATA ={"datas": [
   {"id": i++, "content": 'IntentAndroid Demo'},
   {"id": i++, "content": 'Native Module Demo -- MyToast'},
   {"id": i++, "content": 'Native UI Component Demo -- MyTextView'},
+  {"id": i++, "content": 'Component Lifecycle Demo'},
+  {"id": i++, "content": 'Internet -- Fetch Demo'},
+  {"id": i++, "content": 'Internet -- XmlHttpRequest Demo'},
 ]};
 
 

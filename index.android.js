@@ -26,6 +26,9 @@ var COMPONENTS = [
   require('./rn/view/IntentAndroidExample'),
   require('./rn/view/MyToastUtil'),
   require('./rn/view/NativeUIComponentDemo'),
+  require('./rn/apis/Lifecycle'),
+  require('./rn/network/FetchExample'),
+  require('./rn/network/XmlHttpRequest'),
 ];
 
 var TimerMixin = require('react-timer-mixin');
