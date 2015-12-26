@@ -32,7 +32,8 @@
 
 # Thanks to
 [React Native](https://facebook.github.io/react-native/)
+
 [React Native for Android ](http://www.race604.com/react-native-android-practice/) 
 
 
-* if you like it, welcome star & pull request
+# if you like it, welcome star & pull request
