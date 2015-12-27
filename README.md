@@ -1,5 +1,8 @@
 # React-Native-Android-Demo
-* React Native Android Demo. UI Component.
+* React Native Android Demo
+* UI Component.
+* Internet
+* Native Module
 
 # Content
 * Native Module -- MyToast Demo
